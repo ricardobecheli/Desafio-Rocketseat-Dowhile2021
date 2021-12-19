@@ -1,6 +1,10 @@
 * {
     box-sizing: border-box;
   }
+  h1 {
+    font-size: 40pt;
+    color: black;
+  }
   body {
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
