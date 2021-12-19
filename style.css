@@ -3,8 +3,17 @@
   }
   h1 {
     font-size: 40pt;
-    color: black;
-    
+    color: rgb(241, 101, 7);
+    margin-left: 300px;
+        
+  }
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 83, 128);
+    margin-left: 300px;
+    margin-right: 300px;
+        
+
   }
   body {
     margin: 0;
@@ -20,7 +29,7 @@
   }
   .header {
     height: 60px;
-    background-color: #ff0000;
+    background-color: #ff6f00;
   }
   .slider {
     flex: 1;
